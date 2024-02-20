@@ -1,0 +1,140 @@
+Level1:
+  Wall: minecraft:cyan_terracotta
+  SubFloor: minecraft:dirt
+  Floor-Dry: minecraft:dead_tube_coral_block
+  Floor-Wet: minecraft:dead_brain_coral_block
+Level23:
+  Wall: minecraft:moss_block
+  Wall-Grassy: minecraft:sculk_shrieker
+  Floor: minecraft:moss_block
+  Ceiling: minecraft:moss_block
+  Ceiling-Grass: minecraft:hanging_roots
+  Ceiling-Flower: minecraft:spore_blossom
+  SubFloor: minecraft:dirt
+  SubCeiling: minecraft:stone
+  Grass-Wet-Short: minecraft:dead_bush
+  Grass-Dry-Short: minecraft:short_grass
+  Grass-Wet-Tall-Lower: minecraft:small_dripleaf[half=lower]
+  Grass-Wet-Tall-Upper: minecraft:small_dripleaf[half=upper]
+  Grass-Dry-Tall-Lower: minecraft:tall_grass[half=lower]
+  Grass-Dry-Tall-Upper: minecraft:tall_grass[half=upper]
+Level0:
+  Wall: minecraft:yellow_terracotta
+  Wall-Base: minecraft:orange_terracotta
+  SubFloor: minecraft:oak_planks
+  SubCeiling: minecraft:oak_planks
+  Carpet: minecraft:light_gray_wool
+  Ceiling: minecraft:smooth_stone_slab[type=top]
+Level6:
+  Wall: minecraft:glowstone
+Level37:
+  WallA: minecraft:prismarine_bricks
+  WallB: minecraft:prismarine
+  SubFloor: minecraft:dark_prismarine
+  SubCeiling: minecraft:dark_prismarine
+  Ceiling: minecraft:light[level=15]
+Level5:
+  Hall-Floor-EE: minecraft:black_glazed_terracotta[facing=north]
+  Hall-Floor-EO: minecraft:black_glazed_terracotta[facing=east]
+  Hall-Floor-OE: minecraft:black_glazed_terracotta[facing=west]
+  Hall-Floor-OO: minecraft:black_glazed_terracotta[facing=south]
+  SubFloor: minecraft:mangrove_planks
+  SubCeiling: minecraft:diorite
+  SubWall: minecraft:mangrove_planks
+  Hall-Wall-Top-X: minecraft:polished_diorite
+  Hall-Wall-Top-Z: minecraft:stripped_spruce_wood[axis=z]
+  Hall-Wall-Center: minecraft:brown_terracotta
+  Hall-Wall-Bottom-X: minecraft:polished_diorite
+  Hall-Wall-Bottom-Z: minecraft:stripped_spruce_wood[axis=z]
+  Door-Border-Top-X: minecraft:stripped_spruce_wood[axis=x]
+  Door-Border-Top-Z: minecraft:stripped_spruce_wood[axis=z]
+  Door-Border-Side: minecraft:stripped_spruce_wood[axis=y]
+  Hall-Ceiling: minecraft:polished_diorite
+  Hall-Carpet: minecraft:red_terracotta
+  Hall-Carpet-Rotations: none
+  Door-Guest: minecraft:mangrove_door
+Level19:
+  Wall: minecraft:dead_horn_coral_block
+  Floor: minecraft:dead_bubble_coral_block
+  Beam: minecraft:polished_basalt
+Level188:
+  SubFloor: minecraft:dirt
+  Floor: minecraft:green_wool
+  Floor-Path-Lines: minecraft:polished_andesite
+  Floor-Path-Areas: minecraft:polished_granite
+  Ceiling: minecraft:white_wool
+  Window: minecraft:black_stained_glass
+Level309:
+  Dirt: minecraft:dirt
+  Path: minecraft:dirt_path
+  Grass: minecraft:grass_block
+  SubFloor: minecraft:stone
+  Tree-Trunk: minecraft:birch_log
+  Tree-Leaves: minecraft:birch_leaves
+Level308:
+  Wall: minecraft:smooth_quartz
+  Wall-Stripe: minecraft:quartz_block
+  SubFloor: minecraft:oak_planks
+  SubCeiling: minecraft:oak_planks
+  Floor: minecraft:polished_andesite
+  Ceiling: minecraft:smooth_stone_slab[type=top]
+Level11:
+  SubFloor: minecraft:stone
+  Road: minecraft:blackstone
+  Alley: minecraft:cobbled_deepslate
+Level33:
+  Wall: minecraft:red_concrete
+  Ceiling: minecraft:light[level=15]
+  Floor: minecraft:orange_concrete
+  Floor-Safe: minecraft:polished_blackstone
+  SubFloor: minecraft:dark_oak_slab[type=top]
+  Plate: minecraft:polished_blackstone_pressure_plate
+  Hazard: minecraft:yellow_concrete
+Level94:
+  Dirt: minecraft:moss_block
+  Grass-Block: minecraft:moss_block
+  Grass-Slab: minecraft:mud_brick_slab
+  Grass-Short: minecraft:white_tulip
+  Grass-Tall-Top: air
+  Grass-Tall-Bottom: orange_tulip
+  Fern: minecraft:pink_tulip
+  Rose: minecraft:wither_rose
+  House-Wall: minecraft:dead_fire_coral_block
+  House-Roof-Stairs: minecraft:deepslate_tile_stairs
+  House-Roof-Solid: minecraft:deepslate_tiles
+  House-Window: minecraft:white_stained_glass
+  House-Floor: minecraft:dead_bubble_coral_block
+Level771:
+  Nexus-Arch: minecraft:polished_deepslate
+  Nexus-Arch-Slab-Upper: minecraft:polished_deepslate_slab[type=top]
+  Nexus-Arch-Slab-Lower: minecraft:polished_deepslate_slab[type=bottom]
+  Nexus-Arch-Stairs-Upper: minecraft:polished_deepslate_stairs[facing=<FACING>]
+  Nexus-Arch-Stairs-Lower: minecraft:polished_deepslate_stairs[facing=<FACING>,half=top]
+  Nexus-Arch-Pillar: minecraft:end_rod
+  Nexus-Arch-Base: minecraft:polished_deepslate_wall
+  Nexus-Floor-Upper: minecraft:black_concrete
+  Nexus-Floor-Lower: minecraft:black_concrete
+  Nexus-Floor-Lower-Slab: minecraft:polished_blackstone_slab[type=top]
+  Nexus-Hatch: minecraft:redstone_block
+  Nexus-Flair-Hot: minecraft:white_concrete
+  Nexus-Flair-Cool: minecraft:white_concrete
+  Nexus-Wall: minecraft:polished_basalt
+  Nexus-Wall-Top: minecraft:polished_deepslate_slab[type=bottom]
+  Nexus-Light-Upper: minecraft:light[level=15]
+  Nexus-Light-Lower: minecraft:light[level=9]
+  Road-Upper: minecraft:black_concrete
+  Road-Lower: minecraft:black_concrete
+  Road-Upper-Center: minecraft:white_concrete
+  Road-Lower-Center: minecraft:white_concrete
+  Road-Upper-Wall: minecraft:polished_basalt
+  Road-Lower-Wall: minecraft:polished_basalt
+  Road-Upper-Lamp: minecraft:soul_lantern
+  Road-Lower-Lamp: minecraft:soul_lantern
+  Road-Upper-Light: minecraft:light[level=15]
+  Road-Lower-Light: minecraft:light[level=15]
+  Pillar: minecraft:deepslate_bricks
+  Pillar-Stairs-Upper: minecraft:deepslate_brick_stairs[half=top,facing=<FACING>]
+  Pillar-Stairs-Lower: minecraft:deepslate_brick_stairs[half=bottom,facing=<FACING>]
+  Pillar-Stairs-Under: minecraft:deepslate_brick_stairs[half=top,facing=<FACING>]
+  Pillar-Stairs-Bottom: minecraft:deepslate_brick_stairs[half=top,facing=<FACING>]
+  Shaft-Floor: minecraft:dark_oak_planks
