@@ -1,0 +1,27 @@
+bozo:
+  Type: ZOMBIE
+  Health: 40
+  Damage: 6
+  Skills:
+  - model{mid=bozo} @self ~onSpawn
+  Drops:
+  - diamond
+  Options:
+    Silent: true
+    MovementSpeed: 0.50
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+
+lifeformfellow:
+  Type: ZOMBIE
+  Health: 40
+  Damage: 6
+  Skills:
+  - model{mid=lifeformfellow} @self ~onSpawn
+  Drops:
+  - diamond
+  Options:
+    Silent: true
+    MovementSpeed: 0.40
+    MaxCombatDistance: 25
+    PreventOtherDrops: true

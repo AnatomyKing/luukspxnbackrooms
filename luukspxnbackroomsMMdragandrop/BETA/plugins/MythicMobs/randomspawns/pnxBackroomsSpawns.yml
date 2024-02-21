@@ -1,0 +1,10 @@
+Randombozo:
+  Action: ADD
+  Type: bozo
+  Chance: 0.02
+  Priority: 100
+  UseWorldScaling: false
+  Biomes: THE_VOID
+  Worlds: level0
+  Conditions:
+  - heightbelow{h=22} true
