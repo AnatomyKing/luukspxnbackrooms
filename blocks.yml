@@ -34,10 +34,6 @@ Level37:
   SubCeiling: minecraft:dark_prismarine
   Ceiling: minecraft:light[level=15]
 Level5:
-  Hall-Floor-EE: minecraft:black_glazed_terracotta[facing=north]
-  Hall-Floor-EO: minecraft:black_glazed_terracotta[facing=east]
-  Hall-Floor-OE: minecraft:black_glazed_terracotta[facing=west]
-  Hall-Floor-OO: minecraft:black_glazed_terracotta[facing=south]
   SubFloor: minecraft:mangrove_planks
   SubCeiling: minecraft:diorite
   SubWall: minecraft:mangrove_planks
@@ -50,9 +46,13 @@ Level5:
   Door-Border-Top-Z: minecraft:stripped_spruce_wood[axis=z]
   Door-Border-Side: minecraft:stripped_spruce_wood[axis=y]
   Hall-Ceiling: minecraft:polished_diorite
+  Hall-Floor-EE: minecraft:black_glazed_terracotta[facing=north]
+  Hall-Floor-EO: minecraft:black_glazed_terracotta[facing=east]
+  Hall-Floor-OE: minecraft:black_glazed_terracotta[facing=west]
+  Hall-Floor-OO: minecraft:black_glazed_terracotta[facing=south]
+  Door-Guest: minecraft:mangrove_door
   Hall-Carpet: minecraft:red_terracotta
   Hall-Carpet-Rotations: none
-  Door-Guest: minecraft:mangrove_door
 Level19:
   Wall: minecraft:dead_horn_coral_block
   Floor: minecraft:dead_bubble_coral_block
