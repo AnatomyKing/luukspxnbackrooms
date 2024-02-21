@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "backrooms:levels/level94_motion/motion_roof_tiles",
+    "side": "backrooms:levels/level94_motion/motion_roof_tiles",
+    "top": "backrooms:levels/level94_motion/motion_roof_tiles"
+  }
+}

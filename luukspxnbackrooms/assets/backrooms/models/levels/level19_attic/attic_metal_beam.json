@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "backrooms:levels/level19_attic/attic_metal_beam_end",
+    "side": "backrooms:levels/level19_attic/attic_metal_beam_side"
+  }
+}

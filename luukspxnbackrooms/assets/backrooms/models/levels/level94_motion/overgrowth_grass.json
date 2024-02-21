@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "backrooms:levels/level94_motion/overgrowth_grass"
+  }
+}

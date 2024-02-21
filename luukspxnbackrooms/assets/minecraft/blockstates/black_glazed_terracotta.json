@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "backrooms:levels/level5_hotel/hotelrooms_carpet_red_rotate",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "backrooms:levels/level5_hotel/hotelrooms_carpet_red_rotate",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "backrooms:levels/level5_hotel/hotelrooms_carpet_red_rotate"
+    },
+    "facing=west": {
+      "model": "backrooms:levels/level5_hotel/hotelrooms_carpet_red_rotate",
+      "y": 90
+    }
+  }
+}

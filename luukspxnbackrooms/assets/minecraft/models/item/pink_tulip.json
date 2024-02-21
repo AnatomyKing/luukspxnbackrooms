@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "backrooms:levels/level94_motion/overgrowth_fern"
+  }
+}

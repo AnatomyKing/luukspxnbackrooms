@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "backrooms:levels/level5_hotel/hotelrooms_rosegold_pillar",
+    "side": "backrooms:levels/level5_hotel/hotelrooms_rosegold_pillar"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/bread"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 30005 }, "model": "backrooms:food/ritz" },
+		{"predicate": {"custom_model_data": 30019}, "model": "backrooms:food/peanut_butter_jelly"},
+		{"predicate": {"custom_model_data": 30021}, "model": "backrooms:food/grass_cake"}
+	]
+}

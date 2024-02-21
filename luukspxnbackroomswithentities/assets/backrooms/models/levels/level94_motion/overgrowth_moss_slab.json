@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "backrooms:levels/level23_overgrowth/overgrowth_moss_block",
+    "side": "backrooms:levels/level23_overgrowth/overgrowth_moss_block",
+    "top": "backrooms:levels/level23_overgrowth/overgrowth_moss_block"
+  }
+}

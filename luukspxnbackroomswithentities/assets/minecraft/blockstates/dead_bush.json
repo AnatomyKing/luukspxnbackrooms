@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_0" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_1" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_2" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_3" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_4" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_5" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_6" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_7" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_8" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_9" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_10" }
+		]
+	}
+}

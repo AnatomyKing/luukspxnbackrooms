@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_glazed_terracotta",
+  "textures": {
+    "pattern": "backrooms:levels/level5_hotel/hotelrooms_carpet_red"
+  }
+}

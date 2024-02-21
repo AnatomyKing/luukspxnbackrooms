@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"": [
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_block" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_block_2" },
+			{ "model": "backrooms:levels/level23_overgrowth/overgrowth_foliage_block_3" }
+		]
+	}
+}

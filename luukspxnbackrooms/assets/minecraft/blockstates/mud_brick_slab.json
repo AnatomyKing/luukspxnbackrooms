@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "backrooms:levels/level94_motion/overgrowth_moss_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/mud_bricks"
+    },
+    "type=top": {
+      "model": "backrooms:levels/level94_motion/overgrowth_moss_slab_top"
+    }
+  }
+}

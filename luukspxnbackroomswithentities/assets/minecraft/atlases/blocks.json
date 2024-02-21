@@ -1,0 +1,33 @@
+{
+    "sources": [
+      {
+        "source": "entity",
+        "prefix": "entity/",
+        "type": "directory"
+      },
+      {   
+        "namespace": "backrooms",
+        "type": "directory",
+        "source": "cosmetic",
+        "prefix": "cosmetic/"
+      },
+      {   
+        "namespace": "backrooms",
+        "type": "directory",
+        "source": "decoration",
+        "prefix": "decoration/"
+      },
+      {   
+        "namespace": "backrooms",
+        "type": "directory",
+        "source": "levels",
+        "prefix": "levels/"
+      },
+      {   
+        "namespace": "backrooms",
+        "type": "directory",
+        "source": "food",
+        "prefix": "food/"
+      }
+    ]
+  }

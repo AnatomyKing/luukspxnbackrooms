@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "backrooms:levels/level0_lobby/backrooms_tile"
+    },
+    "type=double": {
+      "model": "minecraft:block/smooth_stone_slab_double"
+    },
+    "type=top": {
+      "model": "backrooms:levels/level0_lobby/backrooms_tile_top"
+    }
+  }
+}

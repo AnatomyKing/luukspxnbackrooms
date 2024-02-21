@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/apple"
+	},
+	  "overrides": 
+	  [
+		  { "predicate": { "custom_model_data": 30001}, "model": "backrooms:food/apple_rotting_1" },
+		  { "predicate": { "custom_model_data": 30002}, "model": "backrooms:food/apple_rotting_2" },
+		  { "predicate": { "custom_model_data": 30003}, "model": "backrooms:food/apple_rotting_3" },
+		  { "predicate": { "custom_model_data": 30004}, "model": "backrooms:food/apple_rotting_4" }
+	  ]
+}

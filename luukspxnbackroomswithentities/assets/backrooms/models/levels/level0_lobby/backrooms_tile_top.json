@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "backrooms:levels/level0_lobby/backrooms_tile",
+    "side": "backrooms:levels/level0_lobby/backrooms_tile_side",
+    "top": "backrooms:levels/level0_lobby/backrooms_tile"
+  }
+}

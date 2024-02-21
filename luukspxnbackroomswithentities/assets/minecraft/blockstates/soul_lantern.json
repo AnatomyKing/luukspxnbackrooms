@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "backrooms:decoration/pylon"
+    },
+    "hanging=true": {
+      "model": "backrooms:decoration/pylon"
+    }
+  }
+}

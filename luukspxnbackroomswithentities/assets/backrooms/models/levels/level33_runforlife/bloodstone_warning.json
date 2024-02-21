@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "backrooms:levels/level33_runforlife/bloodstone",
+    "side": "backrooms:levels/level33_runforlife/bloodstone_warning"
+  }
+}

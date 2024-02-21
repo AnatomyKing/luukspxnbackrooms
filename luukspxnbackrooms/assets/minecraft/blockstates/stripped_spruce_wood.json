@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "backrooms:levels/level5_hotel/hotelrooms_rosegold_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "backrooms:levels/level5_hotel/hotelrooms_rosegold_pillar"
+    },
+    "axis=z": {
+      "model": "backrooms:levels/level5_hotel/hotelrooms_rosegold_pillar",
+      "x": 90
+    }
+  }
+}

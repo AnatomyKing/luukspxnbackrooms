@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "backrooms:decoration/wallart_dontmove",
+		"particle": "backrooms:decoration/wallart_dontmove"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 16],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [0.25, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [-180, 1.25, -180]
+		},
+		"fixed": {
+			"translation": [-0.75, 0, -32.25],
+			"scale": [4, 4, 4]
+		}
+	}
+}

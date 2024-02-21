@@ -1,0 +1,117 @@
+"json.validate.enable": false
+
+[COMMANDS] 
+
+/give @p minecraft:carved_pumpkin{CustomModelData:30007}
+
+Hazmat Chestplate
+/give @p minecraft:leather_chestplate{CustomModelData:30008,display:{color:15573559}}
+
+Hamzat Leggings
+/give @p minecraft:leather_leggings{CustomModelData:30009,display:{color:15573559}}
+
+Hazmat Boots
+/give @p minecraft:leather_boots{CustomModelData:30010,display:{color:15573559}}
+
+
+
+
+
+
+[DECORATION] 
+"rabbit_foot.json"
+- wallart_dontmove.json = CustomModelData: 30011
+- william.json = CustomModelData: 30012
+- direbat_wing = CustomModelData: 30015
+
+[MODELENGINE MODELS] #ModelEngine
+"leather_horse_armor.json"
+
+
+[FOOD] 
+"apple.json"
+- apple_rotting_1.json = CustomModelData: 30001
+- apple_rotting_2.json = CustomModelData: 30002
+- apple_rotting_3.json = CustomModelData: 30003
+- apple_rotting_4.json = CustomModelData: 30004
+
+"bread.json"
+- ritz.json = CustomModelData: 30005
+- peanut_butter_jelly.json = CustomModelData: 30019
+- grass_cake.json = CustomModelData: 30021
+
+"carrot.json"
+- corn.json = CustomModelData: 30006
+
+"rabbit_stew.json"
+- direbat_soup.json = CustomModelData: 30016
+
+"golden_carrot.json"
+- wallpaper_goo.json = CustomModelData: 30014
+
+"cooked_beef.json"
+- fried_william.json = CustomModelData: 30013
+- hamburger.json = CustomModelData: 30022
+
+"honey_bottle.json"
+- almond_water.json = CustomModelData: 30017
+- moth_jelly.json = CustomModelData: 30018
+
+"sweet_berries.json"
+- beans.json = CustomModelData: 30020
+
+"melon_slice.json"
+- cookie_crumbs.json = CustomModelData: 30023
+
+[SHADERARMOR] 
+
+"carved_pumpkin.json"
+- hazmat_mask.json = CustomModelData: 30007
+
+"leather_chestplate.json"
+- hazmat_chestplate.json = CustomModelData: 30008
+
+"leather_leggings.json"
+- hazmat_leggings.json = CustomModelData: 30009
+
+"leather_boots.json"
+- hazmat_boots.json CustomModelData: 30010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

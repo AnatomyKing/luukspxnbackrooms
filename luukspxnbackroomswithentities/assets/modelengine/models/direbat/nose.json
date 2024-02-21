@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/direbat"},"elements":[{"from":[3.497,2.497,-2.5743997],"to":[12.503,14.503,-2.5683997],"faces":{"south":{"uv":[8.375,0.0,9.5,1.5],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[7.25,0.0,8.375,1.5],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

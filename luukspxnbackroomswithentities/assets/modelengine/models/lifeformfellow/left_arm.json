@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/lifeformfellow"},"elements":[{"from":[7.287653,-9.443605,8.5],"to":[11.287653,9.556395,8.5],"faces":{"south":{"uv":[12.7,3.0,10.7,12.5],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[10.7,3.0,12.7,12.5],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

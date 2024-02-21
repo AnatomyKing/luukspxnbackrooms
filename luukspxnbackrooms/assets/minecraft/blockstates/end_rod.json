@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "backrooms:decoration/traffic_light",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "backrooms:decoration/traffic_light",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "backrooms:decoration/traffic_light",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "backrooms:decoration/traffic_light",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "backrooms:decoration/traffic_light"
+    },
+    "facing=west": {
+      "model": "backrooms:decoration/traffic_light",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

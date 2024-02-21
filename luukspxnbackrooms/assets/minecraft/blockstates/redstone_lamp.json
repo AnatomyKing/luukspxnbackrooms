@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "backrooms:levels/level0_lobby/backrooms_lamp_off"
+    },
+    "lit=true": {
+      "model": "backrooms:levels/level0_lobby/backrooms_lamp_on"
+    }
+  }
+}

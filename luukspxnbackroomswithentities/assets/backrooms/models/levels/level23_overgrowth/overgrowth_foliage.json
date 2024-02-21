@@ -1,0 +1,6 @@
+{
+    "parent": "backrooms:levels/level23_overgrowth/os_tinted_cross",
+    "textures": {
+        "cross": "backrooms:levels/level23_overgrowth/overgrowth_foliage"
+    }
+}
